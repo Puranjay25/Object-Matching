@@ -9,4 +9,4 @@ For *prerequisites* [visit here](https://github.com/Puranjay25/Object-Detection/
 ```
 Testing Code
 ```
-![gif](https://gfycat.com/PeacefulTiredEyra)
+![gif](ezgif.com-video-to-gif.gif)
