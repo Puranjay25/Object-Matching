@@ -7,5 +7,6 @@ For *prerequisites* [visit here](https://github.com/Puranjay25/Object-Detection/
 ![Image Test](https://i.imgur.com/RiAlqK4.png)
 
 ```
-vvv
+Testing Code
 ```
+![gif](https://gfycat.com/PeacefulTiredEyra)
