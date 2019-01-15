@@ -9,4 +9,4 @@ For *prerequisites* [visit here](https://github.com/Puranjay25/Object-Detection/
 ```
 Testing Code
 ```
-![gif](ezgif.com-video-to-gif.gif)
+<a href="https://imgflip.com/gif/2r66th"><img src="https://i.imgflip.com/2r66th.gif" title="made at imgflip.com"/></a>
